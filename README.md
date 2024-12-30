@@ -1,6 +1,6 @@
-# matrix
+# Matrix
 
-A new Flutter project.
+First Flutter project.
 
 ## Getting Started
 
